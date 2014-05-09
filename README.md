@@ -10,7 +10,7 @@ Installation
 After downloading/cloning the repository, copy the fractals.py to
 ```
 /.../Blender/2.xx/scripts/addons/
-´´´
+```
 Then, active the plugin in Blender by navigating to the *Addons* tab located at *Files -> User Preferences*.
 Find the plugin (for example by filtering for 'Add Mesh') and activate it by checking its checkbox.
 
